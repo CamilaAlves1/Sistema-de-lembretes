@@ -1,0 +1,15 @@
+C:\Users\Camila\Downloads\Sistema de criação de lembretes\Program.cs\bin\Debug\net7.0\Camila.exe
+C:\Users\Camila\Downloads\Sistema de criação de lembretes\Program.cs\bin\Debug\net7.0\Camila.deps.json
+C:\Users\Camila\Downloads\Sistema de criação de lembretes\Program.cs\bin\Debug\net7.0\Camila.runtimeconfig.json
+C:\Users\Camila\Downloads\Sistema de criação de lembretes\Program.cs\bin\Debug\net7.0\Camila.dll
+C:\Users\Camila\Downloads\Sistema de criação de lembretes\Program.cs\bin\Debug\net7.0\Camila.pdb
+C:\Users\Camila\Downloads\Sistema de criação de lembretes\Program.cs\obj\Debug\net7.0\Camila.csproj.AssemblyReference.cache
+C:\Users\Camila\Downloads\Sistema de criação de lembretes\Program.cs\obj\Debug\net7.0\Camila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Camila\Downloads\Sistema de criação de lembretes\Program.cs\obj\Debug\net7.0\Camila.AssemblyInfoInputs.cache
+C:\Users\Camila\Downloads\Sistema de criação de lembretes\Program.cs\obj\Debug\net7.0\Camila.AssemblyInfo.cs
+C:\Users\Camila\Downloads\Sistema de criação de lembretes\Program.cs\obj\Debug\net7.0\Camila.csproj.CoreCompileInputs.cache
+C:\Users\Camila\Downloads\Sistema de criação de lembretes\Program.cs\obj\Debug\net7.0\Camila.dll
+C:\Users\Camila\Downloads\Sistema de criação de lembretes\Program.cs\obj\Debug\net7.0\refint\Camila.dll
+C:\Users\Camila\Downloads\Sistema de criação de lembretes\Program.cs\obj\Debug\net7.0\Camila.pdb
+C:\Users\Camila\Downloads\Sistema de criação de lembretes\Program.cs\obj\Debug\net7.0\Camila.genruntimeconfig.cache
+C:\Users\Camila\Downloads\Sistema de criação de lembretes\Program.cs\obj\Debug\net7.0\ref\Camila.dll
